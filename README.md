@@ -4,13 +4,17 @@ A project get anime trending and info anime.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is about trending anime and anime info.
 
-A few resources to get you started if this is your first Flutter project:
+- This project using the API from [kitsu.io](https://kitsu.docs.apiary.io/).
+- This project using dependency [Getx](https://pub.dev/packages/get).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Home View
+![HOME](screenshot/home.png) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Detail View
+![Detail](screenshot/detail.png)
+
+## Search View
+![Search](screenshot/search.png)
+
